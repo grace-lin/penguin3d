@@ -1,0 +1,1 @@
+Run the executable "scene" for a GUI of the rendered image with interface windows. The user can load keyframes from file and play them, or control the joints to manipulate the objects, camera, and light.
